@@ -11,7 +11,7 @@ SQL Server (local instance).
 2. Setup Steps
 Clone the Repository
 git clone https://github.com/Reshamk333/order-processing-system.git
-cd order-processing-system
+
 
 3. Update database connection - DefaultConnection in appsettings.json
 4. Apply Migrations Run the following commands to set up the database:
