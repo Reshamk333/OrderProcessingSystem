@@ -1,5 +1,5 @@
 1. Update database connection - DefaultConnection in appsettings.json
-2. Data migration -
+2. Data migration 
   a. Add-Migration InitialCreate
   b. Update-Database
 3. Api end poins
